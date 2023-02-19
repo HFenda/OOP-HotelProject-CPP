@@ -1,0 +1,11 @@
+﻿  DeluxeSoba.cpp
+  Gost.cpp
+  Hotel.cpp
+C:\Users\xy\source\repos\OOP-Projekat1.0\OOP-Projekat1.0\Hotel.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+  Soba.cpp
+  Source.cpp
+C:\Users\xy\source\repos\OOP-Projekat1.0\OOP-Projekat1.0\Source.cpp(77,35): warning C4018: '<': signed/unsigned mismatch
+  StandardSoba.cpp
+  SuiteSoba.cpp
+  Generating Code...
+  OOP-Projekat1.0.vcxproj -> C:\Users\xy\source\repos\OOP-Projekat1.0\Debug\OOP-Projekat1.0.exe
